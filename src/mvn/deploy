@@ -1,1 +1,0 @@
-mvn install:install-file -Dfile=target/Jata-0.0.1-SNAPSHOT.jar -DpomFile=pom.xml -DlocalRepositoryPath=D:/localm2/
